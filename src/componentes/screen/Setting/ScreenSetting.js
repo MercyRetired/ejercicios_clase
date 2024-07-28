@@ -19,7 +19,7 @@ const ScreenSetting = () => {
   }
   return (
     <View>
-      <Text>Autor: Carlos Antonio Balcazar Olan</Text>
+      <Text>Autor: Alan de los Santos Lopez Cetina</Text>
       <Button style={{marginTop:20}} icon="logout" mode="contained" onPress={() => cerrarsesion()}>
         Cerrar Seccion
       </Button>
